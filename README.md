@@ -5,6 +5,6 @@ You can view the license for this content over at https://openbible.com/terms.ht
 
 Thank you for using!
 
-Latest Release Dowload 👇:
+Latest Release Dowload 👉:
 https://github.com/unmusicalherder/OpenBible-App/releases/tag/bible
 

@@ -6,5 +6,5 @@ You can view the license for this content over at https://openbible.com/terms.ht
 Thank you for using!
 
 Latest Release Dowload 👇:
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/unmusicalherder/OpenBible-App)
+https://github.com/unmusicalherder/OpenBible-App/releases/tag/bible
 
